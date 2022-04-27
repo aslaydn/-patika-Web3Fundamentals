@@ -1,6 +1,7 @@
 # `near-sdk-as` Starter Kit
-
-This is a good project to use as a starting point for your AssemblyScript project.
+This is my Transaction                   
+https://explorer.testnet.near.org/transactions/3BEL4LQeXeAWHeakcTCEP8edfj4W5Wc9f9eV3dujrEtD                
+https://app.patika.dev/courses/web3-fundamentals/practicePartII
 
 ## Samples
 
